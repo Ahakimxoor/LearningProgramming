@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DS-and-Algorithms", "DS-and-Algorithms", "{B48AF85C-5503-49BB-B019-4C2195A239D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "DS-and-Algorithms\Arrays\Arrays.csproj", "{C153E2A0-FD5F-460E-B4EE-80F05E75BA5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C153E2A0-FD5F-460E-B4EE-80F05E75BA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C153E2A0-FD5F-460E-B4EE-80F05E75BA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C153E2A0-FD5F-460E-B4EE-80F05E75BA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C153E2A0-FD5F-460E-B4EE-80F05E75BA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C153E2A0-FD5F-460E-B4EE-80F05E75BA5C} = {B48AF85C-5503-49BB-B019-4C2195A239D1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A28A01D-F724-44A4-948E-6FDE06AE7F27}
+	EndGlobalSection
+EndGlobal
