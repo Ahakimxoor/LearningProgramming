@@ -1,0 +1,15 @@
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\bin\Debug\net8.0\SelectionSort.exe
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\bin\Debug\net8.0\SelectionSort.deps.json
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\bin\Debug\net8.0\SelectionSort.runtimeconfig.json
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\bin\Debug\net8.0\SelectionSort.dll
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\bin\Debug\net8.0\SelectionSort.pdb
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\SelectionSort.AssemblyInfo.cs
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\SelectionSort.sourcelink.json
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\SelectionSort.dll
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\refint\SelectionSort.dll
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\SelectionSort.pdb
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\SelectionSort.genruntimeconfig.cache
+C:\Users\ITC\Documents\LearningProgramming\DS-and-Algorithms\Arrays\SelectionSort\obj\Debug\net8.0\ref\SelectionSort.dll
